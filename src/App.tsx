@@ -6,12 +6,13 @@ import {StyledDescription} from './components/StyledDescription.styled.tsx'
 import {StyledWrapperBtns} from './components/StyledWrapperBtns.styled.tsx'
 import {StyledButton} from './components/StyledButton.styled.tsx'
 import {colorsTheme} from './styles/Theme.styled.tsx'
+import photo from './assets/images/picture.png'
 
 function App() {
 
     return (
         <StyledSection>
-            <StyledImg src={'src/assets/images/picture.png'} alt={'picture'}></StyledImg>
+            <StyledImg src={photo} alt={'picture'}></StyledImg>
             <StyledHeading>Headline</StyledHeading>
             <StyledDescription>
                 Faucibus. Faucibus. Sit sit sapien sit tempusrisu ut. Sit molestie ornare in venen.
