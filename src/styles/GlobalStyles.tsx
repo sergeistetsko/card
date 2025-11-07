@@ -1,5 +1,5 @@
-import {createGlobalStyle} from 'styled-components';
-import {colorsTheme} from './Theme.styled.tsx';
+import {createGlobalStyle} from 'styled-components'
+import {colorsTheme} from './Theme.styled.tsx'
 
 export const GlobalStyles = createGlobalStyle`
     *,

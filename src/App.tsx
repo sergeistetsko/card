@@ -1,11 +1,11 @@
 import './App.css'
 import styled from 'styled-components'
-import {StyledImg} from './components/StyledImg.styled.tsx';
-import {StyledHeading} from './components/StyledHeading.styled.tsx';
-import {StyledDescription} from './components/StyledDescription.styled.tsx';
-import {StyledWrapperBtns} from './components/StyledWrapperBtns.styled.tsx';
-import {StyledButton} from './components/StyledButton.styled.tsx';
-import {colorsTheme} from './styles/Theme.styled.tsx';
+import {StyledImg} from './components/StyledImg.styled.tsx'
+import {StyledHeading} from './components/StyledHeading.styled.tsx'
+import {StyledDescription} from './components/StyledDescription.styled.tsx'
+import {StyledWrapperBtns} from './components/StyledWrapperBtns.styled.tsx'
+import {StyledButton} from './components/StyledButton.styled.tsx'
+import {colorsTheme} from './styles/Theme.styled.tsx'
 
 function App() {
 
